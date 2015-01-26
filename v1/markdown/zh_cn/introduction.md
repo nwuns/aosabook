@@ -12,7 +12,7 @@
 
 ##贡献者
 
-Eric P. Allman (Sendmail)：Eric Allman是sendmail, syslog和trek的作者，以及Sendmail公司的联合创始人。他在“开源软件”这个名字还没诞生时就已经开始写开源软件了，更别提之后的“开源运动”了。他是美国计算机协会（ACM）队列编辑审查委员会的一员，也是计算性能理事会的成员之一。他的个人网站是：[http://www.neophilic.com/~eric](http://www.neophilic.com/~eric)。
+Eric P. Allman (Sendmail)：Eric Allman是sendmail, syslog和trek的作者，以及Sendmail公司的联合创始人。他在“开源软件”这个名字还没诞生时就已经开始写开源软件了，更别提之后的“开源运动”了。他是美国计算机协会（ACM）队列编辑审查委员会的成员，也是计算性能理事会的成员之一。他的个人网站是：[http://www.neophilic.com/~eric](http://www.neophilic.com/~eric)。
 
 Keith Bostic (Berkeley DB)：Keith曾是加州大学伯克利分校计算机系统研究小组的成员之一，在那儿他做过2.10BSD版本的架构师，也做过4.4BSD以及相关版本的主要开发者。他获得了USENIX终生成就奖（“火焰奖”）<sup>1</sup>，这个奖项是为了表彰他在Unix社区非凡的贡献，他还获得了加州大学伯克利分校的卓越成就奖，以表彰他推动了4BSD版本的开源。Keith是开源嵌入式数据库系统Berkeley DB的架构师和最初的开发者之一。
 
